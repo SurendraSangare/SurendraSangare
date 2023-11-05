@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm Surendra Sangare</h1>
 <h3 align="center">A passionate developer from India</h3>
 
-<img align="right"alt="coding"width="400"src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
-
+<div id="header"align="center"<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Frudrabarad%2FGifs&psig=AOvVaw1oSUk6ZRtz3plpemYs7FhH&ust=1699256239049000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCKDpwvWsrIIDFQAAAAAdAAAAABAE"width="600"/></div>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=surendrasangare&label=Profile%20views&color=0e75b6&style=flat" alt="surendrasangare" /> </p>
 
 <p align="left"> <a href="https://twitter.com/surendrasangare" target="blank"><img src="https://img.shields.io/twitter/follow/surendrasangare?logo=twitter&style=for-the-badge" alt="surendrasangare" /></a> </p>
